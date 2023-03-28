@@ -1,6 +1,6 @@
 # 🌸 About Me:
 
-Hi 👋 !<br><br>🎓 I am a student in user interface design at Gobelins(https://www.gobelins.fr/design-graphique/formations/concepteur-designer-ui) school.<br>💼 And currently work as a UI designer at Beyonds(https://www.beyonds.fr/). <br><br>🌸 I have a strong desire to improve my frontend development skills, which is why I joined the Frontend Mentor platform to continue learning and making progress in this exciting field.
+Hi 👋 !<br><br>🎓 I am a student in user interface design at [Gobelins](https://www.gobelins.fr/design-graphique/formations/concepteur-designer-ui) school.<br>💼 And currently work as a UI designer at [Beyonds](https://www.beyonds.fr/). <br><br>🌸 I have a strong desire to improve my frontend development skills, which is why I joined the Frontend Mentor platform to continue learning and making progress in this exciting field.
 
 ## Socials:
 
