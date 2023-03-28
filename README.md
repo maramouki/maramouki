@@ -4,7 +4,7 @@ Hi 👋 !<br><br>🎓 I am a student in user interface design at Gobelins school
 
 ## Socials:
 
-[![Behance]](https://behance.net/leoachard) [![LinkedIn]](https://www.linkedin.com/in/l%C3%A9o-achard-852921192/) [![Twitch]](https://twitch.tv/maramouki_)
+[Behance](https://behance.net/leoachard) <br> [LinkedIn](https://www.linkedin.com/in/l%C3%A9o-achard-852921192/) <br> [Twitch](https://twitch.tv/maramouki_)
 
 # 💻 Tech Stack:
 
